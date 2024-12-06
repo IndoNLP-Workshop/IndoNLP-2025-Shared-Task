@@ -28,6 +28,16 @@ The primary goal of this project is to develop and evaluate a tool that:
 - Shared Task Completion :November 15, 2024
 - Paper Submission Deadline :November 30, 2024
 
+## Language Test Sets
+
+| Language   | Test Set 1: General Typing Patterns | Test Set 2: Adhoc Typing Patterns   |
+|------------|--------------------------------------|------------------------------------|
+| Sinhala    | 10000                                | 5000                               |
+| Bengali    | 10000                                | 5000                               |
+| Gujarati   | 5000                                 | 5000                               |
+| Hindi      | 5000                                 | 5000                               |
+| Malayalam  | 10000                                | 5000                               |
+
 ## Submission
 
 - The developed transliteration model/code.
