@@ -30,6 +30,11 @@ The primary goal of this project is to develop and evaluate a tool that:
 
 ## Language Test Sets
 
+This Test dataset has been created and augmented specifically for the INdoNLP Shared Task 2025. Please note that some data records are a combination of existing datasets that are publicly available for the respective languages. The augmentation process involved generating new data samples based on these existing resources while ensuring data diversity and relevance to the task.
+
+We want to give full credit to the authors and original creators of the datasets from which the data has been derived. Their contributions have been invaluable in the development of this dataset.
+
+
 | Language   | Test Set 1: General Typing Patterns | Test Set 2: Adhoc Typing Patterns   |
 |------------|--------------------------------------|------------------------------------|
 | Sinhala    | 10000                                | 5000                               |
@@ -44,3 +49,5 @@ The primary goal of this project is to develop and evaluate a tool that:
 - A report detailing the approach, challenges faced, and solutions implemented.
 - A detailed discussion about the evaluation techniques/frameworks used.
 - A short paper (4 pages)
+
+For any inquiries or concerns regarding this dataset, please contact us at: indonlp2025@gmail.com
