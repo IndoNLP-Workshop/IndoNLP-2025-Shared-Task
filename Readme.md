@@ -6,6 +6,9 @@
 
 This project introduces a **real-time reverse transliterator**, designed to convert Romanized Indo-Aryan language input into its corresponding native script. By improving the accuracy of transliteration, we aim to enhance the typing experience for users who prefer using Romanized alphabets for Indo-Aryan languages.
 
+![Example Task](./Images/sample.png)
+
+
 ## Task Objective
 
 The primary goal of this project is to develop and evaluate a tool that:
